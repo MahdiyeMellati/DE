@@ -1,6 +1,6 @@
 Predictive Modeling of Data Exhaust in Voice Assistant Network Traffic Data
 
-For this analysis, we used PCAPs published in teh paper namely "Amazon Alexa Traffic Traces" dataset (2022) by Barcel et al.
+For this analysis, we used PCAPs published in the paper namely "Amazon Alexa Traffic Traces" (2022) by Barcel et al.
 Barceló-Armada, Rubén, Ismael Castell-Uroz, and Pere Barlet-Ros. "Amazon Alexa traffic traces." Computer Networks 205 (2022): 108782.
 
 For the next step, we used CICFlowMeter. 
